@@ -63,8 +63,6 @@ A partir de los datasets limpios exportados desde el notebook, se construyó un 
 - Medidas DAX para ingresos, margen, gasto en marketing, tasas de conversión del funnel y retención por cohorte.
 - Visualizaciones interactivas con segmentadores por país, canal y periodo, que permiten explorar los mismos hallazgos documentados en el notebook de forma dinámica.
 
-> 📁 *Agrega aquí el enlace o archivo `.pbix` del dashboard, y una captura de pantalla si deseas mostrarlo visualmente en este README.*
-
 ---
 
 ## 🛠️ Tecnologías utilizadas
@@ -109,5 +107,4 @@ jupyter notebook Rappi_Plus_Analysis.ipynb
 ## 👤 Autor
 
 **Jair García Zamorano**
-Biólogo y limnólogo (M.Sc., UNAM/ICMyL) en transición hacia analítica de datos.
 Portafolio: [github.com/jairgyz97-lab](https://github.com/jairgyz97-lab)
